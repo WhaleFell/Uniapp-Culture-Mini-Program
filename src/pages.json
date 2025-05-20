@@ -1,0 +1,305 @@
+{
+  "pages": [
+	  {
+	  	"path" : "pages/login/login",
+	  	"style" : 
+	  	{
+	  		"navigationBarTitleText" : "登录界面"
+	  	}
+	  },
+    {
+      "path": "pages/home/home",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/culture/culture",
+      "style": {
+        "navigationBarTitleText": "文化知识"
+      }
+    },
+    {
+      "path": "pages/discover/discover",
+      "style": {
+        "navigationBarTitleText": "发现"
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/mine/likes",
+      "style": {
+        "navigationBarTitleText": "收到的赞",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/mine/fans",
+      "style": {
+        "navigationBarTitleText": "我的粉丝",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/mine/follows",
+      "style": {
+        "navigationBarTitleText": "关注",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/feedback",
+      "style": {
+        "navigationBarTitleText": "意见反馈",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/settings",
+      "style": {
+        "navigationBarTitleText": "设置",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/edit-profile",
+      "style": {
+        "navigationBarTitleText": "编辑资料",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/feiyi/feiyi",
+      "style": {
+        "navigationBarTitleText": "非遗文化"
+      }
+    },
+    {
+      "path": "pages/art/art",
+      "style": {
+        "navigationBarTitleText": "传统艺术"
+      }
+    },
+    {
+      "path": "pages/folk/folk",
+      "style": {
+        "navigationBarTitleText": "民俗活动"
+      }
+    },
+    {
+      "path": "pages/exhibition/exhibition",
+      "style": {
+        "navigationBarTitleText": "文化展览"
+      }
+    },
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/discover/comments",
+      "style": {
+        "navigationBarTitleText": "评论详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/discover/topic",
+      "style": {
+        "navigationBarTitleText": "话题详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "enablePullDownRefresh": true,
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/culture/special",
+      "style": {
+        "navigationBarTitleText": "专题详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/feiyi/detail",
+      "style": {
+        "navigationBarTitleText": "非遗详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/art/detail",
+      "style": {
+        "navigationBarTitleText": "艺术详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/folk/detail",
+      "style": {
+        "navigationBarTitleText": "活动详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/exhibition/detail",
+      "style": {
+        "navigationBarTitleText": "展览详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/culture/detail",
+      "style": {
+        "navigationBarTitleText": "知识详情",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/mine/collection",
+      "style": {
+        "navigationBarTitleText": "我的收藏",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/history",
+      "style": {
+        "navigationBarTitleText": "浏览历史",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/study",
+      "style": {
+        "navigationBarTitleText": "学习记录",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/calendar",
+      "style": {
+        "navigationBarTitleText": "学习日历",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/mine/posts",
+      "style": {
+        "navigationBarTitleText": "我的发布",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+      "path": "pages/discover/publish",
+      "style": {
+        "navigationBarTitleText": "发布动态",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "backgroundColor": "#f5f5f5"
+      }
+    },
+    {
+    	"path" : "pages/login/register",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : "用户注册"
+    	}
+    },
+    {
+    	"path" : "pages/login/forgot",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : "忘记密码"
+    	}
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^uni-(.*)": "@dcloudio/uni-ui/lib/uni-$1/uni-$1.vue"
+    }
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#d81e06",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/culture/culture",
+        "text": "文化知识",
+        "iconPath": "static/tabbar/culture.png",
+        "selectedIconPath": "static/tabbar/culture-active.png"
+      },
+      {
+        "pagePath": "pages/discover/discover",
+        "text": "发现",
+        "iconPath": "static/tabbar/discover.png",
+        "selectedIconPath": "static/tabbar/discover-active.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/tabbar/mine.png",
+        "selectedIconPath": "static/tabbar/mine-active.png"
+      }
+    ]
+  },
+  "uniIdRouter": {}
+}
